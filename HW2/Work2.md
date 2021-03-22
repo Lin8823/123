@@ -27,9 +27,8 @@
     甚麼是SSH？   
     SSH是Secure SHell protocol的簡寫，經由將連線的封包加密的技術，進行資料的傳遞。  
     -參考資料  
-    http://linux.vbird.org/linux_server/zspace/new0310telnetssh.php#ssh
+    http://linux.vbird.org/linux_server/zspace/new0310telnetssh.php#ssh - SSH伺服器
     https://jennycodes.me/posts/security-ssh - 你該知道所有關於 SSH 的那些事
-    [你該知道所有關於 SSH 的那些事](https://jennycodes.me/posts/security-ssh)
       
  
 **STEP 4**
