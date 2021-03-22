@@ -24,8 +24,14 @@
 
 [Install LAMP (Linux, Apache, MySql & PHP) on AWS EC2 with Ubuntu 18.04](https://usefulangle.com/post/96/aws-ec2-install-linux-apache-mysql-php-phpmyadmin-lamp-stack-ubuntu-18-04)  
 ##### 之所以可透過SSH方式連線是因為傳入規則（Inbound rules）有將SSH服務打開
-  
-  
+    甚麼是SSH？   
+    SSH是Secure SHell protocol的簡寫，經由將連線的封包加密的技術，進行資料的傳遞。  
+    -參考資料  
+    http://linux.vbird.org/linux_server/zspace/new0310telnetssh.php#ssh
+    https://jennycodes.me/posts/security-ssh - 你該知道所有關於 SSH 的那些事
+    [你該知道所有關於 SSH 的那些事](https://jennycodes.me/posts/security-ssh)
+      
+ 
 **STEP 4**
 至安全群組，將http服務打開
 ![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/265c320d-a684-4225-a16a-652aa5bef40e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210322T032700Z&X-Amz-Expires=86400&X-Amz-Signature=0bc9a9032b3acc8a42372c2650d4683fed11606ab7d748e4f2394dfb4e187df1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png")  
