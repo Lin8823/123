@@ -2,7 +2,7 @@
 ##### 說明：  
 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬機完成安裝，並成功啟動網頁伺服器與資料庫伺服器的功能。
 
-###### YouTube：  
+##### YouTube：  
 * [Install a LAMP web server on Amazon Linux 2](https://youtu.be/gRz443boolo)
 * [Secure the database server](https://youtu.be/TzmEQj3U3O4)
 
