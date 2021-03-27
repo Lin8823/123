@@ -8,16 +8,16 @@
 
 **STEP 1**  
 至Amazon EC2申請主機（作業系統為Linux2，也可選Ubuntu）  
-![image]( https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4af34e56-88ac-4e5a-992e-d3f71c83117f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210322T031348Z&X-Amz-Expires=86400&X-Amz-Signature=6fe0f4bbaa0ab2c216e3549469b8d822bb0aa3d96df7640fb4f5e994fce093c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png")  
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4af34e56-88ac-4e5a-992e-d3f71c83117f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210327%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210327T162710Z&X-Amz-Expires=86400&X-Amz-Signature=ba37d0d561c7f61d5cad5b9c12f4b75639d78d3f7116c9c9a764b88990e0807d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png")  
 
 
 **STEP 2**  
 連線至Amazon主機
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/426a50fc-5974-4a08-bdb7-1cbf440f02c9/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210322T031359Z&X-Amz-Expires=86400&X-Amz-Signature=1d3cfe316ba153c07dae7d6853ef8f2e4cb4cd50990f2082a2ed6e4de3444dc7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D".png")
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/426a50fc-5974-4a08-bdb7-1cbf440f02c9/.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210327%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210327T162802Z&X-Amz-Expires=86400&X-Amz-Signature=9f68ca03facbbaeea6a21bda6bb06dbf8f5d941fbf63fe6b980138e5c2daeae4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D".png")
 
 **STEP 3**  
 使用SSH連線方式
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d4d3b4d2-5936-4255-8856-ba41fb9acb85/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210322T031852Z&X-Amz-Expires=86400&X-Amz-Signature=d84987a6f402451165dbbfab0a5341ed6b6d970225e588ad5e219e38d6482e81&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png")
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d4d3b4d2-5936-4255-8856-ba41fb9acb85/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210327%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210327T162822Z&X-Amz-Expires=86400&X-Amz-Signature=3f1c72113d74d3213c0953d060b4edb24d48a418cd06e1e8ec71601432fcd204&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png")
 ![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5cd87f62-fc2c-4d2b-8e4c-ec058c11c1d0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210322T032517Z&X-Amz-Expires=86400&X-Amz-Signature=24be0c1c498063df273c4676344fdfc57bc17ce2f8aa1ebbb3ec4d7b5e1a6af7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png")
 ###### LAMP → 灌至電腦，可同時擁有Web Server、Database Server
 ###### L ：Linux
