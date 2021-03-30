@@ -11,4 +11,4 @@ Work2
 - [Build a Website using Amazon EC2 with LAMP](https://github.com/Lin8823/FinTech/blob/main/HW2/Work2.md)  
 
 Work3
-- [Build a Website using Amazon S3(Versioning)and AWS Amplify](https://github.com/Lin8823/FinTech/blob/main/HW2/Work2.md)
+- [Build a Website using Amazon S3(Versioning)and AWS Amplify](https://github.com/Lin8823/FinTech/blob/main/HW3/Work3.md)
