@@ -12,3 +12,6 @@ Work2
 
 Work3
 - [Build a Website using Amazon S3(Versioning)and AWS Amplify](https://github.com/Lin8823/FinTech/blob/main/HW3/Work3.md)
+
+Work4
+- [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://github.com/Lin8823/FinTech/blob/main/HW4/Work4.md)
