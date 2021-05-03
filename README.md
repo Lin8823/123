@@ -15,3 +15,6 @@ Work3
 
 Work4
 - [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://github.com/Lin8823/FinTech/blob/main/HW4/Work4.md)
+
+Work5
+- [Create a Database using Amazon RDS](https://github.com/Lin8823/FinTech/blob/main/HW5/Work5.md)
