@@ -18,3 +18,6 @@ Work4
 
 Work5
 - [Create a Database using Amazon RDS](https://github.com/Lin8823/FinTech/blob/main/HW5/Work5.md)
+
+Work6
+- [Create a Docker Container or Build your own Project Services](https://github.com/Lin8823/FinTech/blob/main/HW6/Work6.md)
